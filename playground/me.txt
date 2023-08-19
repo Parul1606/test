@@ -1,5 +1,0 @@
-{{#user}}
-Name: Parul
-Skills: HTML, CSS, JavaScript, ReactJS
-Email: parulss1606@gmail.com
-{{/user}}
